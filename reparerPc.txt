@@ -1,0 +1,23 @@
+À tout hasard…
+
+Vérifiez que le cordon d'alimentation est correctement branché ! Si c'est le cas, tentez de brancher l'ordinateur dans une autre prise, ou un autre appareil dans la prise pour contrôler celle-ci.
+Réparer un ordinateur portable qui ne démarre pas : premier geste d'urgence
+
+Avec un ordinateur portable, il existe une manipulation très simple à effectuer. Débranchez votre ordinateur, et retirez la batterie. Appuyez ensuite sur le bouton d'alimentation une bonne minute : cette opération permet de remettre à zéro tous les composants, une sorte de "reset". Enfin, remontez la batterie et tentez de démarrer votre ordinateur normalement.
+L'ordinateur portable démarre, mais s'arrête ?
+
+Si votre ordinateur portable démarre mais s'éteint aussitôt, tentez de redémarrer en mode sans échec. Débranchez tous les périphériques et câbles réseaux, puis redémarrez : lorsque l'ordinateur s'allume, appuyez plusieurs fois sur la touche F8. Avec les touches de votre clavier, vous pourrez alors "Restaurer la dernière configuration connue" dans "Réparer votre ordinateur". Si votre session démarre ensuite normalement, il s'agit d' un problème de périphérique ou de mise à jour. Désinstallez les programmes et mises à jour les plus récentes, ou testez vos périphériques un par un.
+Toujours rien…
+
+Diagnostiquez! Retirez tous les périphériques et câbles externes de l'ordinateur. Branchez puis débranchez le câble d'alimentation, enlevez puis replacez la batterie. À chaque configuration différente, appuyez sur le bouton d'alimentation : surveillez les voyants et les sons.
+Aucun bruit, aucune lumière
+Aucune alimentation ne parvient à votre ordinateur portable. Changez la batterie ou l'adaptateur secteur.
+Voyants clignotants ou bip sans démarrage
+Il s'agit d'une défaillance matérielle : contactez le fabricant, ou vérifiez son site internet pour un diagnostic plus poussé. Si vous vous en sentez capable, ouvrez l'ordinateur. Sortez, nettoyez puis replacez les composants les uns après les autres.
+Voyants clignotants, puis bruit de ventilateur sans démarrage
+Conflit ou défaillance de composants! Branchez un écran externe pour vérifier si l'écran de votre ordinateur portable pose problème. Sinon, restaurez la configuration d'origine en tentant un démarrage avec le CD d'installation. Les données non sauvegardées seront perdues.
+Message d'erreur sur écran noir
+Faites une recherche sur Internet pour comprendre la teneur du message. En fonction, suivez les instructions, ou contactez le fabricant. Vous pouvez également tenter de démarrer en mode sans échec, ou de réinstaller le système avec le CD d'installation.
+Écran bleu ou redémarrages incessants
+Démarrez votre ordinateur portable en mode sans échec. Entrez dans les options avancées, et désactivez le redémarrage automatique en cas d'échec, puis restaurez une configuration antérieure dans "Réparer votre ordinateur".
+
